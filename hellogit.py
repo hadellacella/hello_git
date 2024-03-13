@@ -1,2 +1,2 @@
 print ("Hello Git")
-print ("Hello Git2")
+print ("Ahora estoy editando el archivo")
